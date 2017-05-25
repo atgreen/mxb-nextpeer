@@ -1,0 +1,2 @@
+APP_EVAL1="(ql:quickload :mxb-nextpeer)"
+APP_EVAL2="(mxb-nextpeer:start-nextpeer)"
