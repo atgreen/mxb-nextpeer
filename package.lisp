@@ -19,7 +19,7 @@
 ;;;; package.lisp
 
 (defpackage #:mxb-nextpeer
-  (:use #:cl #:hunchentoot #:drakma #:babel #:cl-json)
+  (:use #:cl)
   (:shadow #:package)
   (:export #:start-mxb-nextpeer #:stop-mxb-nextpeer))
 
