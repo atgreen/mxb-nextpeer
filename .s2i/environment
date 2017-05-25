@@ -1,2 +1,2 @@
 APP_SYSTEM_NAME=mxb-nextpeer
-APP_EVAL="(mxb-nextpeer:start-mxp-nextpeer)"
+APP_EVAL="(mxb-nextpeer:start-mxb-nextpeer)"
