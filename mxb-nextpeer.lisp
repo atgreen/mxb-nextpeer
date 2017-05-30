@@ -64,7 +64,7 @@
 			      (make-instance 'hunchentoot:easy-acceptor
 					     :port 8080)))
   (loop
-     (sleep 3000)))
+     (sleep 4000)))
 
 (defun stop-mxb-nextpeer ()
   "Stop the web application."
