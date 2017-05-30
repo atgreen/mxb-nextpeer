@@ -13,4 +13,3 @@ DNS-over-HTTPS service.
 * Add peer blacklist support
 * Handle failure modes
 
-
